@@ -29,7 +29,7 @@ test('params', (t) => {
     t.end();
 });
 
-test('trigger event', (t) => {
+test.skip('trigger event', (t) => {
     const timeout = 100;
     const watchdog = new Watchdog(timeout);
     const startedAt = Date.now();
