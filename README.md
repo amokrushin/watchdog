@@ -16,8 +16,8 @@ npm i @amokrushin/watchdog
 
 
 
-[npm-stable-version-image]: https://img.shields.io/npm/v/watchdog.svg
-[npm-url]: https://npmjs.com/package/watchdog
+[npm-stable-version-image]: https://img.shields.io/npm/v/@amokrushin/watchdog.svg
+[npm-url]: https://www.npmjs.com/package/@amokrushin/watchdog
 [travis-master-image]: https://img.shields.io/travis/amokrushin/watchdog/master.svg
 [travis-url]: https://travis-ci.org/amokrushin/watchdog
 [codecov-image]: https://img.shields.io/codecov/c/github/amokrushin/watchdog/master.svg
