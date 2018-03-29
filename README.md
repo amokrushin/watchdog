@@ -26,5 +26,5 @@ npm i @amokrushin/watchdog
 [david-url-master]: https://david-dm.org/amokrushin/watchdog
 [node-version-image]: https://img.shields.io/node/v/@amokrushin/watchdog.svg
 [node-version-url]: https://nodejs.org/en/download/
-[license-image]: https://img.shields.io/npm/l/watchdog.svg
+[license-image]: https://img.shields.io/npm/l/@amokrushin/watchdog.svg
 [license-url]: https://raw.githubusercontent.com/amokrushin/watchdog/master/LICENSE
